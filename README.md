@@ -32,8 +32,19 @@ Método de coleta:
 * Retornaram 1182 resultados, no qual eu realizei o download através da API fornecida pela BDTD.
 * Modifiquei o limite da API, para que realizasse a coleta inteira dos dados e não se limitasse ao padrão de 1000.
 
+## Considerações finais
+
+Criar visualizações de dados não é uma tarefa simples e está ligada ao storytelling da análise.
+Deve-se sempre averiguar o contexto do público destinado, ser objetivo, claro e simples nas informações a serem passadas.
+
 ## Visualizações
 
+![](https://github.com/FranciscoFoz/Visualizacoes_TesesDissertacoes_Biblioteconomia_Brasil/raw/main/Gr%C3%A1ficos/Quantidade_documentos.png)
 
+![](https://github.com/FranciscoFoz/Visualizacoes_TesesDissertacoes_Biblioteconomia_Brasil/raw/main/Gr%C3%A1ficos/Quantidade_teses_dissertacoes.png)
 
+![](https://github.com/FranciscoFoz/Visualizacoes_TesesDissertacoes_Biblioteconomia_Brasil/raw/main/Gr%C3%A1ficos/Quantidade_teses_dissertacoes_tempo.png)
 
+![](https://github.com/FranciscoFoz/Visualizacoes_TesesDissertacoes_Biblioteconomia_Brasil/raw/main/Gr%C3%A1ficos/Quantidade_dissertacoes_instituicoes.png)
+
+![](https://github.com/FranciscoFoz/Visualizacoes_TesesDissertacoes_Biblioteconomia_Brasil/raw/main/Gr%C3%A1ficos/Quantidade_teses_instituicoes.png)
