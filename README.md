@@ -41,7 +41,7 @@ Deve-se sempre averiguar o contexto do público destinado, ser objetivo, claro e
 
 ![](https://github.com/FranciscoFoz/Visualizacoes_TesesDissertacoes_Biblioteconomia_Brasil/raw/main/Gr%C3%A1ficos/Quantidade_documentos.png)
 
-![](https://github.com/FranciscoFoz/Visualizacoes_TesesDissertacoes_Biblioteconomia_Brasil/raw/main/Gr%C3%A1ficos/Quantidade_teses_dissertacoes.png)
+![](https://github.com/FranciscoFoz/Visualizacoes_TesesDissertacoes_Biblioteconomia_Brasil/raw/main/Gr%C3%A1ficos/Quantidade_teses_dissertacoes_.png)
 
 ![](https://github.com/FranciscoFoz/Visualizacoes_TesesDissertacoes_Biblioteconomia_Brasil/raw/main/Gr%C3%A1ficos/Quantidade_teses_dissertacoes_tempo.png)
 
