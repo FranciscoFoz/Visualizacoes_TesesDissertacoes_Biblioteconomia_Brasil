@@ -13,7 +13,7 @@ Elaborado por Francico Foz
 
 Olá! 
 
-Neste repositório você encontrará o projeto do meu [artigo]() 
+Neste repositório você encontrará o projeto do meu [artigo](https://franciscofoz.medium.com/visualiza%C3%A7%C3%A3o-dos-dados-de-teses-e-disserta%C3%A7%C3%B5es-de-biblioteconomia-do-brasil-com-python-7d3de5a4ed8a) 
 
 
 ## Resumo
