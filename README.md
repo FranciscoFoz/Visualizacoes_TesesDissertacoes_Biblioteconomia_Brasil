@@ -11,7 +11,7 @@ O objetivo desse projeto foi visualizar os dados de teses e dissertações de bi
 | :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://images.unsplash.com/photo-1600431521340-491eca880813?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80" height="600" width="1000#vitrinedev)
+![](https://images.unsplash.com/photo-1600431521340-491eca880813?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80#vitrinedev)
 
 photo by [Ryunosuke Kikuno](https://unsplash.com/photos/FKqxZ58bVjU) 
 
