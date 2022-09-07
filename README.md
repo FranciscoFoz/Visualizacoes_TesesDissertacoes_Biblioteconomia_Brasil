@@ -1,8 +1,19 @@
 # Visualizando os dados de teses e dissertações de Biblioteconomia do Brasil
 
+O objetivo desse projeto foi visualizar os dados de teses e dissertações de biblioteconomia do Brasil.
 
-<img src="https://images.unsplash.com/photo-1600431521340-491eca880813?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80" height="600" width="1000"></a>  
-Autor: [Ryunosuke Kikuno](https://unsplash.com/photos/FKqxZ58bVjU) 
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Visualizando os dados de teses e dissertações de Biblioteconomia do Brasil**
+| :label: Tecnologias | python
+| :rocket: URL         | https://github.com/FranciscoFoz/Visualizacoes_TesesDissertacoes_Biblioteconomia_Brasil
+| :fire: Desafio     | 
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://images.unsplash.com/photo-1600431521340-491eca880813?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80" height="600" width="1000#vitrinedev)
+
+photo by [Ryunosuke Kikuno](https://unsplash.com/photos/FKqxZ58bVjU) 
 
 
 Elaborado por Francico Foz
